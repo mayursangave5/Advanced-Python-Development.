@@ -1,2 +1,2 @@
 num=int(input("enter a number:= "))
-print("even") if(num%2==0) else print("odd")
+print(f"{num} is even odd number.") if(num%2==0) else print(f"{num} is odd number.")
